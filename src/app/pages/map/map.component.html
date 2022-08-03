@@ -1,0 +1,26 @@
+<div class="layout">
+    <div class="info">
+        <div class="countryName">
+            Colombia
+        </div>
+        <input type="date" class="date" [(ngModel)]="selectedDate">
+        <div class="data">
+            <div class="totalBox">
+                <span>Total cases</span>
+                <span>{{ currentData.Confirmed | number: '1.0-0' }}</span>
+            </div>
+            <div class="activeBox">
+                <span>Active</span>
+                <span>{{ currentData.Active | number: '1.0-0' }}</span>
+            </div>
+            <div class="recoveredBox">
+                <span>Recovered</span>
+                <span>{{ currentData.Recovered | number: '1.0-0' }}</span>
+            </div>
+            <div class="deathBox">
+                <span>Deaths</span>
+                <span>{{ currentData.Deaths | number: '1.0-0' }}</span>
+            </div>
+        </div>
+    </div>
+</div>
