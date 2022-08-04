@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Country } from '../models/country.model';
-import { first, last } from 'rxjs';
+import { CountryInterface } from '../pages/map/map.component';
 
 @Injectable({
   providedIn: 'root'
@@ -20,7 +20,7 @@ export class CovidService {
 
   getCurrentData(country: string, date: Date){
     let dateFormatted = date.toISOString();
-    return this.httpClient.get<Array<any>>(this.URL + 'country/'+country+'?from=2020-01-01T00:00:00Z&to='+dateFormatted);
+    return this.httpClient.get<Array<CountryInterface>>(this.URL + 'country/'+country+'?from=2020-01-01T00:00:00Z&to='+dateFormatted);
   }
 
   getData(country: string){
