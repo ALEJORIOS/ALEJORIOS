@@ -18,11 +18,4 @@
 
 In my spare time I develop specific components in angular (toasts, modals, etc...) y I plan to publish them in NPM.
 
-I have expertise in HTML!<img src="/assets/icons/html.svg"></img>, CSS (I prefer Sass), and Javascript buuuuuut I also like to combine them with some frameworks for example Angular or Vue (in the case of Javascript) or bootstrap and tailwind (in the case of CSS). In back-end side I usually works on Express and mongoDB (perfect combination 🔥)
-
-<style>
-.image{
-    display: "flex";
-    width: 30%
-}
-</style>
+I have expertise in HTML!<img src="https://marinegeo.github.io/assets/img/MarineGEO_logo.png"></img>, CSS (I prefer Sass), and Javascript buuuuuut I also like to combine them with some frameworks for example Angular or Vue (in the case of Javascript) or bootstrap and tailwind (in the case of CSS). In back-end side I usually works on Express and mongoDB (perfect combination 🔥)
