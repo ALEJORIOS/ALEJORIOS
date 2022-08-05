@@ -1,27 +1,14 @@
-# CovidGraph
+# &lt;Alejandro Rios/&gt;
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+## Hi!! 👋 My name is Alejandro Rios, I'm from Colombia and I'm a web developer nerd 🤓.
+<br>
 
-## Development server
+<h3>I live in Bogota when I work as a front-end developer on weekdays (and work on my personal projects on weekend), in a nutshell my work is to make web applications for large companies in different sectors.</h3>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47ymhb5yqam0s83fjtabwqfnx5k5c5gg6clxi5446i&rid=giphy.gif&ct=g" width="50%"  />
 
-## Code scaffolding
+<h3>I have certificates of knowledge in advanced Angular (my favorite JS framework!✨) and UI/UX design 🎨.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47zhf4uaw6c4j8d75y9v9f3ouw9mhstv0vbysfetye&rid=giphy.gif&ct=g" width="50%">
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+In my spare time I develop specific components in angular (toasts, modals, etc...) y I plan to publish them in NPM.
