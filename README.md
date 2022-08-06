@@ -4,16 +4,12 @@
 
 <h3>I live in Bogota when I work as a front-end developer on weekdays (and work on my personal projects on weekend), in a nutshell my work is to make web applications for large companies in different sectors</h3>
 
-<div style="width: 25%">
-
-![Me, developing](/assets/developer.gif)
-
-</div>
+<img src="assets/developer.gif" alt="me, developing" style="width: 25%">
 
 <h3>I have certificates of knowledge in advanced Angular (my favorite JS framework!✨) and UI/UX design 🎨
 <br>
 
-![Cat!](/assets/cat.gif)
+<img src="assets/cat.gif" alt="I haven't cats, but..." style="width: 25%">
 
 <h2>In my spare time I develop specific components in angular (toasts, modals, etc...) and I plan to publish them in NPM.</h2>
 
