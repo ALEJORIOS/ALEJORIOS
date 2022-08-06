@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# &lt;Alejandro Rios/&gt;
 
-You can use the [editor on GitHub](https://github.com/ALEJORIOS/ALEJORIOS/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Hi!! 👋 My name is Alejandro Rios, I'm from Colombia and I'm a web developer nerd 🤓
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>I live in Bogota when I work as a front-end developer on weekdays (and work on my personal projects on weekend), in a nutshell my work is to make web applications for large companies in different sectors</h3>
 
-### Markdown
+<img src="assets/developer.gif" alt="me, developing" style="width: 15rem">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>I have certificates of knowledge in advanced Angular (my favorite JS framework!✨) and UI/UX design 🎨
+<br>
 
-```markdown
-Syntax highlighted code block
+<img src="assets/cat.gif" alt="I haven't cats, but..." style="width: 15rem">
 
-# Header 1
-## Header 2
-### Header 3
+<h2>In my spare time I develop specific components in angular (toasts, modals, etc...) and I plan to publish them in NPM.</h2>
 
-- Bulleted
-- List
+<p>
+I have expertise in HTML <img src="assets/icons/html.svg" style="height: 18px; position: relative; bottom: -4px"></img>, CSS <img src="assets/icons/css.svg" style="height: 18px; position: relative; bottom: -4px"></img> (although I prefer  <img src="assets/icons/sass.svg" style="height: 20px; position: relative; bottom: -4px"></img>), and Javascript <img src="assets/icons/js.svg" style="height: 18px; position: relative; bottom: -4px"></img> buuuuuut I also like to combine them with some frameworks for example Angular <img src="assets/icons/angular.svg" style="height: 18px; position: relative; bottom: -4px"></img> or Vue <img src="assets/icons/vue.png" style="height: 18px; position: relative; bottom: -4px"></img> (in the case of Javascript) or bootstrap <img src="assets/icons/bootstrap.svg" style="height: 18px; position: relative; bottom: -5px"></img> and tailwind <img src="assets/icons/tailwind.svg" style="height: 12px; position: relative; bottom: -2px"> (in the case of CSS). In back-end side I usually works on Express and mongoDB (perfect combination 🔥)
+</p>
 
-1. Numbered
-2. List
+<h2>Here you can see a small sample of my <a href="https://covid-line-chart.herokuapp.com/" target="_blank">work</a>!!!</h2>
+<p>
+In addition to loving my profession, I am also an electronic engineer👨‍🔧 who loves astronomy 🔭 and things that go around in space 🚀, going to church ⛪ on sundays with my wife and searching for the best burguer 🍔 in town. I like to be learning something new every day 📚.
+</p>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ALEJORIOS/ALEJORIOS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2>You can contact me at <a href="https://luisrios.lar@gmail.com" target="_blank">luisrios.lar@gmail.com</a></h2>
