@@ -4,7 +4,7 @@
 
 <h3>I live in Bogota when I work as a front-end developer on weekdays (and work on my personal projects on weekend), in a nutshell my work is to make web applications for large companies in different sectors</h3>
 
-<div class="image">
+<div style="width: 25%">
 
 ![Me, developing](/assets/developer.gif)
 
