@@ -2,7 +2,7 @@
 
 ## Hi!! 👋 My name is Alejandro Rios, I'm from Colombia and I'm a web developer nerd 🤓
 
-<h3>I live in Bogota when I work as a front-end developer on weekdays (and work on my personal projects on weekend), in a nutshell my work is to make web applications for large companies in different sectors</h3>
+<h3>I live in Bogota where I work as a front-end developer on weekdays (and work on my personal projects on weekends), in a nutshell my work is to make web applications for large companies in different sectors</h3>
 
 <img src="assets/developer.gif" alt="me, developing" style="width: 15rem">
 
@@ -14,7 +14,7 @@
 <h2>In my spare time I develop specific components in angular (toasts, modals, etc...) and I plan to publish them in NPM.</h2>
 
 <p>
-I have expertise in HTML <img src="assets/icons/html.svg" style="height: 18px; position: relative; bottom: -4px"></img>, CSS <img src="assets/icons/css.svg" style="height: 18px; position: relative; bottom: -4px"></img> (although I prefer  <img src="assets/icons/sass.svg" style="height: 20px; position: relative; bottom: -4px"></img>), and Javascript <img src="assets/icons/js.svg" style="height: 18px; position: relative; bottom: -4px"></img> buuuuuut I also like to combine them with some frameworks for example Angular <img src="assets/icons/angular.svg" style="height: 18px; position: relative; bottom: -4px"></img> or Vue <img src="assets/icons/vue.png" style="height: 18px; position: relative; bottom: -4px"></img> (in the case of Javascript) or bootstrap <img src="assets/icons/bootstrap.svg" style="height: 18px; position: relative; bottom: -5px"></img> and tailwind <img src="assets/icons/tailwind.svg" style="height: 12px; position: relative; bottom: -2px"> (in the case of CSS). In back-end side I usually works on Express and mongoDB (perfect combination 🔥)
+I have expertise in HTML <img src="assets/icons/html.svg" style="height: 18px; position: relative; bottom: -4px"></img>, CSS <img src="assets/icons/css.svg" style="height: 18px; position: relative; bottom: -4px"></img> (although I prefer  <img src="assets/icons/sass.svg" style="height: 20px; position: relative; bottom: -4px"></img>), and Javascript <img src="assets/icons/js.svg" style="height: 18px; position: relative; bottom: -4px"></img> buuuuuut I also like to combine them with some frameworks for example Angular <img src="assets/icons/angular.svg" style="height: 18px; position: relative; bottom: -4px"></img> or Vue <img src="assets/icons/vue.png" style="height: 18px; position: relative; bottom: -4px"></img> (in the case of Javascript) or Bootstrap <img src="assets/icons/bootstrap.svg" style="height: 18px; position: relative; bottom: -5px"></img> and Tailwind <img src="assets/icons/tailwind.svg" style="height: 12px; position: relative; bottom: -2px"> (in the case of CSS). In back-end side I usually work on Express and MongoDB (perfect combination 🔥)
 </p>
 
 <h2>Here you can see a small sample of my <a href="https://covid-line-chart.herokuapp.com/" target="_blank">work</a>!!!</h2>
